@@ -9,9 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "bootstrap": "^5.2.0-beta1",
+    "mysql": "^2.18.1",
     "next": "12.2.0",
+    "particlesjs": "^2.2.3",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-icons": "^4.4.0",
+    "rsuite": "^5.15.2"
   },
   "devDependencies": {
     "eslint": "8.19.0",
